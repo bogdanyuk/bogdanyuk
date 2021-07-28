@@ -1,5 +1,5 @@
 <div>
-  ![dragon loading gif](https://cdn.dribbble.com/users/351764/screenshots/4003643/dragon-loading.gif)
+![dragon loading gif](https://cdn.dribbble.com/users/351764/screenshots/4003643/dragon-loading.gif)
 </div>
 <div>
   <h4>🔭 GitHub Usage stats</h4>
