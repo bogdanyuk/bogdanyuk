@@ -1,6 +1,5 @@
-<div>
 ![dragon loading gif](https://cdn.dribbble.com/users/351764/screenshots/4003643/dragon-loading.gif)
-</div>
+
 <div>
   <h4>🔭 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=r3act1st&show_icons=true&theme=radical" />
