@@ -1,5 +1,5 @@
 <div>
-  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <h4>🔭 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=r3act1st&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3act1st&layout=compact" />
 </div>
